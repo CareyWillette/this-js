@@ -1,4 +1,5 @@
 # the 'this' keyword in javascript
+A small code base showing how 'this' works.
 
 ### Introduction and Binding
 
@@ -12,5 +13,5 @@ Section 2 - Explicit Binding with call, apply, and bind
 
 ### The new and window Binding
 
-Section 3 - The new and window Binding 
+Section 3 - The new and window Binding
 [Repo](https://github.com/CareyWillette/this-js/blob/master/section3/script3.js)
